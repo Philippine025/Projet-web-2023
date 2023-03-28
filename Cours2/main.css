@@ -5,7 +5,7 @@ p{color:purple;}
 
 body{
   background: #fff;
-  color: purple; 
+  color: black; 
   font-size: 16px;
   font-family: 'Delicious Handrawn', cursive;
   margin:0;
@@ -19,14 +19,14 @@ nav{
 
 h1{
   font-family: 'Roboto', sans-serif;
-  color:  #41A3C0; 
+  color:  black; 
   font-weight: bolder;
   font-size: 2em;
 }
 
 h2 {
   font-family: 'Roboto', sans-serif;
-  color: #3b4563;
+  color:seagreen;
   font-weight: lighter;
   font-size: 1.5em;
 }
